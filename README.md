@@ -1,6 +1,6 @@
 # file-service-upload
 
-The file-service-upload is to process the file and upload to the database.
+The file-service-upload is to process the file and upload to the internet temp database.
 
 ## REST APIs
 
