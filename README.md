@@ -1,6 +1,6 @@
 # file-service-upload
 
-The file-service-upload is to process the file and upload to the internet temp database and send the message to the RabbitMQ queue.
+The file-service-upload is to process the file, upload to the internet temp database and send the message to the RabbitMQ queue.
 
 
 ## REST APIs
